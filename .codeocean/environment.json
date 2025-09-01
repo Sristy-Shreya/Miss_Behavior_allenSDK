@@ -12,6 +12,22 @@
 				{
 					"name": "allensdk",
 					"version": "2.16.2"
+				},
+				{
+					"name": "matplotlib",
+					"version": "3.9.0"
+				},
+				{
+					"name": "numpy",
+					"version": "1.6.1"
+				},
+				{
+					"name": "pandas",
+					"version": "1.23.5"
+				},
+				{
+					"name": "scikit-learn",
+					"version": "1.6.1"
 				}
 			],
 			"options": {},
